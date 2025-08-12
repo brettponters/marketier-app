@@ -32,18 +32,18 @@ We serve businesses across the United States with specialized expertise in:
 
 ## Key Pages
 
-- [Homepage](https://themarketier.com/): Overview of our AI marketing services
-- [Partner Program](https://themarketier.com/partner): Information about partnering with The Marketier
-- [Local SEO Dominator](https://themarketier.com/playbook/local-seo-dominator): Playbook for dominating local search results
-- [GEO for AI Lead Generation](https://themarketier.com/playbook/geo-ai-lead-generation): Guide to Generative Engine Optimization
-- [AI Blog Accelerator](https://themarketier.com/playbook/ai-blog-accelerator): AI-powered content creation system
-- [Reputation Builder](https://themarketier.com/playbook/reputation-builder): Automated review generation strategy
-- [Competitor Intel System](https://themarketier.com/playbook/competitor-intel-system): Real-time competitor tracking
-- [Conversion Optimizer](https://themarketier.com/playbook/conversion-optimizer): CRO strategies for higher conversions
+- [Homepage](https://www.themarketier.agency/): Overview of our AI marketing services
+- [Partner Program](https://www.themarketier.agency/partner): Information about partnering with The Marketier
+- [Local SEO Dominator](https://www.themarketier.agency/playbook/local-seo-dominator): Playbook for dominating local search results
+- [GEO for AI Lead Generation](https://www.themarketier.agency/playbook/geo-ai-lead-generation): Guide to Generative Engine Optimization
+- [AI Blog Accelerator](https://www.themarketier.agency/playbook/ai-blog-accelerator): AI-powered content creation system
+- [Reputation Builder](https://www.themarketier.agency/playbook/reputation-builder): Automated review generation strategy
+- [Competitor Intel System](https://www.themarketier.agency/playbook/competitor-intel-system): Real-time competitor tracking
+- [Conversion Optimizer](https://www.themarketier.agency/playbook/conversion-optimizer): CRO strategies for higher conversions
 
 ## Contact
 
-- **Website**: https://themarketier.com
+- **Website**: https://www.themarketier.agency
 - **Email**: hello@themarketier.com
 - **Services**: AI Marketing, Lead Generation, SEO, Content Marketing, Marketing Automation
 
@@ -71,5 +71,5 @@ Starting at $597/month with no long-term contracts. Custom packages available ba
 
 ## Optional
 
-- [Coming Soon](https://themarketier.com/coming-soon): Future features and updates
-- [FAQ](https://themarketier.com/#faq): Frequently asked questions
+- [Coming Soon](https://www.themarketier.agency/coming-soon): Future features and updates
+- [FAQ](https://www.themarketier.agency/#faq): Frequently asked questions
